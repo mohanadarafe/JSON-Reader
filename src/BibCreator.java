@@ -60,7 +60,6 @@ public class BibCreator {
                 try{
                     System.out.print("\nPlease enter the name of one of the files you need to review:");
                     String readFile = sc.nextLine();
-
                     File f = new File(readFile);
                     FileReader fr = new FileReader(f);
                     BufferedReader br = new BufferedReader(fr);
