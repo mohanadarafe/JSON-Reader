@@ -1,14 +1,3 @@
-/*
- * COMP 249 - QQ - Assignment 3
- * @author: Mohanad Arafe & Jennifer Abou jaoudi
- * Student ID: 40042922 & 40038753
- * Date: 16/03/2018
- * The purpose of this assignment is to use all Java features
- * about File I/O handling. We used scanners, buffered readers
- * and print writers to generate 30 files with ACM, IEEE &
- * NJ formats from JSON files. This is very useful for
- * real life handling and programming.
-*/
 package Main;
 import java.util.Scanner;
 import java.io.*;
