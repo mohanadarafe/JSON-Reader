@@ -1,14 +1,3 @@
-/*
- * COMP 249 - QQ - Assignment 3
- * @author: Mohanad Arafe & Jennifer Abou jaoudi
- * Student ID: 40042922 & 40038753
- * Date: 16/03/2018
- * ------------------ TASK 5 =------------------
- * In this file, there is the core of the program
- * that runs through files and determines if they
- * are valid. After, it deletes invalid files and
- * prints the correct format for IEEE, ACM & NJ.
- */
 package Main;
 import java.io.*;
 
