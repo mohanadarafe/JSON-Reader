@@ -14,4 +14,4 @@ After reading through the 10 files, there should be 3 new files created **for ea
 
 In those files, the JSON reader will take all the information needed to create a file in each format to propoerly print out the correct formats.
 
-![Output](https://im5.ezgif.com/tmp/ezgif-5-363bdffee1.gif)
+![Output](https://im4.ezgif.com/tmp/ezgif-4-a90ab7e1d3.gif)
